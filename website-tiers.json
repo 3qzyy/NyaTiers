@@ -1,0 +1,2496 @@
+{
+  "schemaVersion": 2,
+  "players": [
+    {
+      "minecraft": "_DasEntchen_",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    
+    {
+      "minecraft": "_JumpingBean_",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "1TREN",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "nethpot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "spearmace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "pot": {
+          "tier": "HT4",
+          "peakTier": "LT3"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "smp": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "crystal": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "uhc": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "3qzy",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "mace": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "pot": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "smp": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "nethpot": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "axe": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "chaosmace": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "crystal": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "spearmace": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "uhc": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        }
+      }
+    },
+    {
+      "minecraft": "Marlowwww",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT2",
+          "peakTier": "HT1"
+        },
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "HT1"
+        },
+        "pot": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "smp": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "nethpot": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "axe": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "chaosmace": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "crystal": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "spearmace": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "uhc": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        }
+      }
+    },
+    {
+      "minecraft": "coldified",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT2",
+          "peakTier": "HT1"
+        },
+        "mace": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "pot": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "smp": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "nethpot": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "axe": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "chaosmace": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "crystal": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "spearmace": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        },
+        "uhc": {
+          "tier": "HT1",
+          "peakTier": "HT1"
+        }
+      }
+    },
+    {
+      "minecraft": "67kz",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "pot": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "nethpot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "atokyo",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "BartekGaming383",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "mace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "nethpot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "pot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "smp": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "crystal": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "uhc": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "axe": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "biscoffbread",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "bombertobi",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "BomoFan",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "pot": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "uhc": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "CatBoyElias",
+      "region": "EU",
+      "tiers": {
+        "axe": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "uhc": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "pot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "sword": {
+          "tier": "LT2",
+          "peakTier": "LT2",
+          "retired": true
+        }
+      }
+    },
+    {
+      "minecraft": "certifiedrid",
+      "region": "NA",
+      "tiers": {
+        "chaosmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "spearmace": {
+          "tier": "HT4",
+          "peakTier": "HT3"
+        },
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "nethpot": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "pot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "smp": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "uhc": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "ch1lln",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "Clivan",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT2",
+          "peakTier": "HT2"
+        }
+      }
+    },
+    {
+      "minecraft": "DieElfeFX",
+      "region": "EU",
+      "tiers": {
+        "uhc": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "spearmace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "nethpot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "pot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "smp": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "crystal": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "chaosmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "Elias117347",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "uhc": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "mace": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "emielie14",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "spearmace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "chaosmace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "mace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "axe": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "Enzo_KnoXx202411",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "mace": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "Epicfaik",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "HT3"
+        },
+        "crystal": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        }
+      }
+    },
+    {
+      "minecraft": "ExPuma",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "uhc": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "chaosmace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "spearmace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "nethpot": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "pot": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "axe": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        }
+      }
+    },
+    {
+      "minecraft": "Fluriol",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "Fr0gified",
+      "region": "EU",
+      "tiers": {
+        "spearmace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "uhc": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "mace": {
+          "tier": "LT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "FrozenBlack",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        }
+      }
+    },
+    {
+      "minecraft": "GhostlyFatih",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "HT3"
+        },
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "HT3"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "pot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "nethpot": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "Ginoski",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "spearmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "chaosmace": {
+          "tier": "HT4",
+          "peakTier": "LT3"
+        },
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "LT3"
+        },
+        "uhc": {
+          "tier": "HT5",
+          "peakTier": "LT4"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "pot": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "smp": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "nethpot": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "Gold3n__",
+      "region": "NA",
+      "tiers": {
+        "sword": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "pot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "nethpot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "uhc": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "mace": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "crystal": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "Goldium_",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        }
+      }
+    },
+    {
+      "minecraft": "hallo663",
+      "region": "EU",
+      "tiers": {
+        "uhc": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "HalloweenMeower",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT2",
+          "peakTier": "LT2"
+        },
+        "smp": {
+          "tier": "LT2",
+          "peakTier": "LT2"
+        },
+        "spearmace": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "sword": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "uhc": {
+          "tier": "LT2",
+          "peakTier": "LT2"
+        },
+        "pot": {
+          "tier": "LT2",
+          "peakTier": "LT2"
+        }
+      }
+    },
+    {
+      "minecraft": "ImJett_",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "uhc": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "mace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "sword": {
+          "tier": "LT5",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "ImMythical",
+      "region": "NA",
+      "tiers": {
+        "nethpot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "spearmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "uhc": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "pot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "axe": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "ImRedlin",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "nethpot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "uhc": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "pot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "spearmace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "axe": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "ItsFluffytime14",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "spearmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "ItsMoritzzz",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "HT3",
+          "peakTier": "LT2"
+        },
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT2"
+        },
+        "spearmace": {
+          "tier": "LT2",
+          "peakTier": "LT2",
+          "retired": true
+        },
+        "mace": {
+          "tier": "LT2",
+          "peakTier": "LT2"
+        },
+        "chaosmace": {
+          "tier": "LT2",
+          "peakTier": "LT2"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "HT3"
+        },
+        "pot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "nethpot": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "uhc": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "axe": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "ItsWattie",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "LT2",
+          "peakTier": "LT2"
+        },
+        "chaosmace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "spearmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "sword": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "smp": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "crystal": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "pot": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "uhc": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        }
+      }
+    },
+    {
+      "minecraft": "ItzK1RBE",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "ItzSncw",
+      "region": "EU",
+      "tiers": {
+        "uhc": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "sword": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "spearmace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "mace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "chaosmace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "smp": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "crystal": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "JCNKLER",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "uhc": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "pot": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "smp": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "spearmace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "Joredium",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "HT4",
+          "peakTier": "LT3"
+        },
+        "spearmace": {
+          "tier": "HT4",
+          "peakTier": "LT3"
+        },
+        "sword": {
+          "tier": "LT4",
+          "peakTier": "LT3"
+        },
+        "chaosmace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "pot": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "smp": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "nethpot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "axe": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "uhc": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "mace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "kasnnn",
+      "region": "NA",
+      "tiers": {
+        "sword": {
+          "tier": "LT1",
+          "peakTier": "LT1",
+          "retired": true
+        },
+        "pot": {
+          "tier": "LT2",
+          "peakTier": "LT2",
+          "retired": true
+        },
+        "nethpot": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "uhc": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "smp": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "chaosmace": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "mace": {
+          "tier": "HT4",
+          "peakTier": "LT3"
+        },
+        "spearmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "axe": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        }
+      }
+    },
+    {
+      "minecraft": "KelvinFittii",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "KFCmuncher67",
+      "region": "EU",
+      "tiers": {
+        "nethpot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "mace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "axe": {
+          "tier": "HT4",
+          "peakTier": "LT3"
+        },
+        "crystal": {
+          "tier": "LT4",
+          "peakTier": "HT4"
+        },
+        "spearmace": {
+          "tier": "LT2",
+          "peakTier": "LT2",
+          "retired": true
+        },
+        "pot": {
+          "tier": "LT4",
+          "peakTier": "HT4"
+        },
+        "uhc": {
+          "tier": "HT4",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "KittyPuter",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "spearmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "koksikSzef",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "crystal": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "pot": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "nethpot": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "kxnzzs_",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "HT3"
+        },
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "HT3"
+        },
+        "pot": {
+          "tier": "LT3",
+          "peakTier": "HT3"
+        },
+        "nethpot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "axe": {
+          "tier": "LT3",
+          "peakTier": "HT3"
+        },
+        "mace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "uhc": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "Lixa_787",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        }
+      }
+    },
+    {
+      "minecraft": "LLoyd_the_M",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "chaosmace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "sword": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "crystal": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "pot": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "nethpot": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "uhc": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "LordTrash13",
+      "region": "EU",
+      "tiers": {
+        "nethpot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "sword": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "pot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        }
+      }
+    },
+    {
+      "minecraft": "lozk00",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "pot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "nethpot": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "chaosmace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "crystal": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "smp": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "spearmace": {
+          "tier": "LT5",
+          "peakTier": "HT5"
+        },
+        "uhc": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "luudwiczek",
+      "region": "EU",
+      "tiers": {
+        "nethpot": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "chaosmace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "M4rkiski",
+      "region": "EU",
+      "tiers": {
+        "uhc": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        }
+      }
+    },
+    {
+      "minecraft": "McNicho",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "mace": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "spearmace": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "chaosmace": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "sword": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "smp": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "pot": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "nethpot": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "uhc": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "axe": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "Meloy_",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "crystal": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "MrmedoMC",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT4",
+          "peakTier": "LT3"
+        },
+        "mace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "sword": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "nethpot": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "uhc": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "pot": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "smp": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "chaosmace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "spearmace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "muhOnCeiling",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "LT2",
+          "peakTier": "LT2"
+        }
+      }
+    },
+    {
+      "minecraft": "nuuhx",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "Paliwag",
+      "restricted": true,
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "HT3"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "axe": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "uhc": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "crystal": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "pawkitty",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "LT2",
+          "peakTier": "LT2",
+          "retired": true
+        },
+        "spearmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "axe": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "pot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "Pestilents",
+      "region": "EU",
+      "tiers": {
+        "uhc": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "Prpl_Kng",
+      "region": "EU",
+      "tiers": {
+        "spearmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "PVPSnapper",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "smp": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "uhc": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "mace": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "Senpai_Nyx",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "uhc": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "axe": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "ShabakAgent3",
+      "region": "EU",
+      "tiers": {
+        "spearmace": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "ShieldlessStray",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "SkinPunktexe",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "Sm1targusPrimus",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        }
+      }
+    },
+    {
+      "minecraft": "SmitwargusPr1mus",
+      "region": "EU",
+      "tiers": {
+        "uhc": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "Sn00wies",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        }
+      }
+    },
+    {
+      "minecraft": "SocialRex11",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "sword": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "chaosmace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "mace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "spearmace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "pot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "uhc": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "nethpot": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "smp": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "SolarPleasant",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "SonPatrol",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        }
+      }
+    },
+    {
+      "minecraft": "Spooky1904",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "mace": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "crystal": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        }
+      }
+    },
+    {
+      "minecraft": "swnxzx",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "pot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "nethpot": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "Sylithe",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        }
+      }
+    },
+    {
+      "minecraft": "Szaniaczekk",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "crystal": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        }
+      }
+    },
+    {
+      "minecraft": "TheCronos_YT",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT5",
+          "peakTier": "HT4"
+        },
+        "pot": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "chaosmace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "smp": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "nethpot": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "uhc": {
+          "tier": "LT5",
+          "peakTier": "HT5"
+        },
+        "spearmace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "crystal": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "Tom_wvw",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "LT5",
+          "peakTier": "LT5"
+        },
+        "crystal": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "TungTungSwight",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "TwyCole",
+      "region": "EU",
+      "tiers": {
+        "uhc": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "crystal": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "spearmace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "nethpot": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "sword": {
+          "tier": "LT2",
+          "peakTier": "LT2",
+          "retired": true
+        }
+      }
+    },
+    {
+      "minecraft": "VampyWolf",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT4",
+          "peakTier": "HT3"
+        }
+      }
+    },
+    {
+      "minecraft": "WcooksTheFemboy",
+      "region": "NA",
+      "tiers": {
+        "pot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "nethpot": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        },
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "uhc": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        },
+        "mace": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "Wizo_X_extra",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "mace": {
+          "tier": "LT4",
+          "peakTier": "LT4"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "uhc": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "xflxpsy",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "spearmace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    },
+    {
+      "minecraft": "ytgabereal",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "tier": "LT3",
+          "peakTier": "LT3"
+        }
+      }
+    },
+    {
+      "minecraft": "Zendvor",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT3",
+          "peakTier": "LT2"
+        }
+      }
+    },
+    {
+      "minecraft": "zMomentum",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "zNixls_",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        },
+        "pot": {
+          "tier": "HT4",
+          "peakTier": "HT4"
+        }
+      }
+    },
+    {
+      "minecraft": "zShxrki",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "tier": "HT3",
+          "peakTier": "HT3"
+        }
+      }
+    },
+    {
+      "minecraft": "zwwjz",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "axe": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        },
+        "uhc": {
+          "tier": "HT5",
+          "peakTier": "HT5"
+        }
+      }
+    }
+  ],
+  "ltm": {
+    "definitions": [
+      {
+        "id": "diamond-op",
+        "name": "Diamond OP",
+        "icon": "https://cdn.discordapp.com/attachments/1532045805677052045/1548822284305825884/diaop.png?ex=6aa874a8&is=6aa72328&hm=8c69d048da94322050aa4ee3c3b912c2a4892906d30c0851a74ecf2946ce6312&"
+      },
+      {
+        "id": "debuff",
+        "name": "Debuff",
+        "icon": "https://subtiers.net/assets/debuff-20260909.png"
+      },
+      {
+        "id": "diamond-smp",
+        "name": "Diamond SMP",
+        "icon": "https://subtiers.net/assets/dia_smp-20260909.png"
+      },
+      {
+        "id": "speed",
+        "name": "Speed",
+        "icon": "https://subtiers.net/assets/speed-116175c6.svg"
+      },
+      {
+        "id": "lightspeed-mace",
+        "name": "Lightspeed Mace",
+        "icon": "https://raw.githubusercontent.com/itsmoritzzz787/ItsTiers/main/assets/lightspeed-mace.png"
+      }
+    ],
+    "active": {
+      "id": "lightspeed-mace",
+      "name": "Lightspeed Mace",
+      "icon": "https://raw.githubusercontent.com/itsmoritzzz787/ItsTiers/main/assets/lightspeed-mace.png",
+      "startedAt": "2026-10-17T21:17:22.248Z",
+      "endsAt": "2026-10-31T21:17:22.248Z"
+    },
+    "activeLtms": [
+      {
+        "id": "lightspeed-mace",
+        "name": "Lightspeed Mace",
+        "icon": "https://raw.githubusercontent.com/itsmoritzzz787/ItsTiers/main/assets/lightspeed-mace.png",
+        "slot": 1,
+        "startedAt": "2026-10-17T21:17:22.248Z",
+        "endsAt": "2026-10-31T21:17:22.248Z"
+      }
+    ],
+    "players": [
+      {
+        "minecraft": "1TREN",
+        "region": "EU",
+        "results": {
+          "diamond-op": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-09-14T20:44:12.779Z"
+          }
+        }
+      },
+      {
+        "minecraft": "3qzy",
+        "region": "EU",
+        "results": {
+          "diamond-op": {
+            "tier": "HT3",
+            "peakTier": "HT3",
+            "awardedAt": "2026-09-14T20:44:20.351Z"
+          },
+          "debuff": {
+            "tier": "LT4",
+            "peakTier": "LT4",
+            "awardedAt": "2026-10-01T20:18:32.238Z"
+          },
+          "speed": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-03T20:21:25.956Z"
+          },
+          "diamond-smp": {
+            "tier": "HT4",
+            "peakTier": "HT4",
+            "awardedAt": "2026-10-03T20:57:53.482Z"
+          },
+          "lightspeed-mace": {
+            "tier": "HT4",
+            "peakTier": "HT4",
+            "awardedAt": "2026-10-17T23:35:59.837Z"
+          }
+        }
+      },
+      {
+        "minecraft": "certifiedrid",
+        "region": "NA",
+        "results": {
+          "lightspeed-mace": {
+            "tier": "HT3",
+            "peakTier": "HT3",
+            "awardedAt": "2026-10-20T02:10:51.369Z"
+          }
+        }
+      },
+      {
+        "minecraft": "Ginoski",
+        "region": "EU",
+        "results": {
+          "lightspeed-mace": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-18T16:37:09.521Z"
+          }
+        }
+      },
+      {
+        "minecraft": "HalloweenMeower",
+        "region": "EU",
+        "results": {
+          "diamond-smp": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-11T14:06:27.880Z"
+          },
+          "speed": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-17T21:16:08.570Z"
+          }
+        }
+      },
+      {
+        "minecraft": "ImRedlin",
+        "region": "EU",
+        "results": {
+          "lightspeed-mace": {
+            "tier": "LT4",
+            "peakTier": "LT4",
+            "awardedAt": "2026-10-18T11:07:33.721Z"
+          }
+        }
+      },
+      {
+        "minecraft": "ItsMoritzzz",
+        "region": "EU",
+        "results": {
+          "diamond-op": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-09-27T19:58:58.499Z"
+          },
+          "debuff": {
+            "tier": "LT4",
+            "peakTier": "LT4",
+            "awardedAt": "2026-10-01T16:01:56.357Z"
+          },
+          "speed": {
+            "tier": "LT4",
+            "peakTier": "LT4",
+            "awardedAt": "2026-10-17T16:22:33.119Z"
+          },
+          "diamond-smp": {
+            "tier": "HT5",
+            "peakTier": "HT5",
+            "awardedAt": "2026-10-16T18:35:07.654Z"
+          },
+          "lightspeed-mace": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-17T22:57:01.024Z"
+          }
+        }
+      },
+      {
+        "minecraft": "Joredium",
+        "region": "EU",
+        "results": {
+          "lightspeed-mace": {
+            "tier": "HT5",
+            "peakTier": "HT5",
+            "awardedAt": "2026-10-18T21:13:55.540Z"
+          }
+        }
+      },
+      {
+        "minecraft": "kasnnn",
+        "region": "NA",
+        "results": {
+          "diamond-op": {
+            "tier": "LT2",
+            "peakTier": "LT2",
+            "awardedAt": "2026-09-14T22:20:51.475Z"
+          },
+          "debuff": {
+            "tier": "LT4",
+            "peakTier": "LT4",
+            "awardedAt": "2026-10-01T20:13:53.197Z"
+          },
+          "diamond-smp": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-03T19:05:19.699Z"
+          },
+          "speed": {
+            "tier": "HT3",
+            "peakTier": "HT3",
+            "awardedAt": "2026-10-03T20:30:16.163Z"
+          }
+        }
+      },
+      {
+        "minecraft": "KFCmuncher67",
+        "region": "EU",
+        "results": {
+          "lightspeed-mace": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-17T23:51:31.492Z"
+          }
+        }
+      },
+      {
+        "minecraft": "kxnzzs_",
+        "region": "EU",
+        "results": {
+          "diamond-op": {
+            "tier": "HT4",
+            "peakTier": "LT3",
+            "awardedAt": "2026-09-24T17:59:17.389Z"
+          }
+        }
+      },
+      {
+        "minecraft": "luudwiczek",
+        "region": "EU",
+        "results": {
+          "debuff": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-09-27T22:14:02.003Z"
+          },
+          "speed": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-03T19:01:12.928Z"
+          }
+        }
+      },
+      {
+        "minecraft": "McNicho",
+        "region": "EU",
+        "results": {
+          "diamond-op": {
+            "tier": "HT4",
+            "peakTier": "HT4",
+            "awardedAt": "2026-09-14T16:19:43.606Z"
+          },
+          "debuff": {
+            "tier": "LT5",
+            "peakTier": "LT5",
+            "awardedAt": "2026-10-03T18:28:30.839Z"
+          },
+          "speed": {
+            "tier": "LT4",
+            "peakTier": "LT4",
+            "awardedAt": "2026-10-11T15:26:35.032Z"
+          },
+          "lightspeed-mace": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-19T19:38:50.170Z"
+          }
+        }
+      },
+      {
+        "minecraft": "Pestilents",
+        "region": "EU",
+        "results": {
+          "speed": {
+            "tier": "HT4",
+            "peakTier": "HT4",
+            "awardedAt": "2026-10-11T14:47:08.930Z"
+          }
+        }
+      },
+      {
+        "minecraft": "Prpl_Kng",
+        "region": "EU",
+        "results": {
+          "lightspeed-mace": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-18T21:45:44.382Z"
+          }
+        }
+      },
+      {
+        "minecraft": "Sn00wies",
+        "region": "EU",
+        "results": {
+          "speed": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-11T14:06:43.004Z"
+          },
+          "lightspeed-mace": {
+            "tier": "LT4",
+            "peakTier": "LT4",
+            "awardedAt": "2026-10-18T13:10:20.448Z"
+          }
+        }
+      },
+      {
+        "minecraft": "SocialRex11",
+        "region": "EU",
+        "results": {
+          "diamond-op": {
+            "tier": "LT5",
+            "peakTier": "LT4",
+            "awardedAt": "2026-09-20T19:40:26.031Z"
+          }
+        }
+      },
+      {
+        "minecraft": "SonPatrol",
+        "region": "EU",
+        "results": {
+          "speed": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-04T12:58:59.691Z"
+          }
+        }
+      },
+      {
+        "minecraft": "Sylithe",
+        "region": "EU",
+        "results": {
+          "lightspeed-mace": {
+            "tier": "LT3",
+            "peakTier": "LT3",
+            "awardedAt": "2026-10-18T14:11:17.997Z"
+          }
+        }
+      },
+      {
+        "minecraft": "TheCronos_YT",
+        "region": "EU",
+        "results": {
+          "diamond-op": {
+            "tier": "LT4",
+            "peakTier": "LT4",
+            "awardedAt": "2026-09-27T21:33:42.916Z"
+          },
+          "debuff": {
+            "tier": "LT5",
+            "peakTier": "LT5",
+            "awardedAt": "2026-10-03T17:28:54.979Z"
+          },
+          "speed": {
+            "tier": "HT5",
+            "peakTier": "HT5",
+            "awardedAt": "2026-10-03T20:07:08.231Z"
+          },
+          "lightspeed-mace": {
+            "tier": "HT5",
+            "peakTier": "HT5",
+            "awardedAt": "2026-10-19T18:29:20.317Z"
+          }
+        }
+      }
+    ]
+  }
+}
